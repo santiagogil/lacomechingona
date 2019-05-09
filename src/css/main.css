@@ -85,3 +85,12 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+.sticky {
+  position: sticky;
+  top: 0rem;
+  z-index: 1;
+}
+.sticky2 {
+  position: sticky;
+  top: 8rem;
+}

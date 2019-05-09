@@ -1,18 +1,12 @@
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7 center ph3">
+  <div class="mw7 center ttu" style="transform: translateX(-60%) rotate(-90deg); position: sticky; top: 0;z-index: 10; font-weight: 200;">
     <div class="db mb3">
       <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-          {{.title}}
-        </h1>
-      </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
+        <h1 class="f4 f6-l di lh-title mb3 mw6 tr">
           {{.subtitle}}
-        </p>
-        {{ end }}
+        </h1>
       </div>
     </div>
   </div>
+
+<div class="pv5 pv6-l ph3 bg-center cover fixed" style="background-image: url('{{.imageUrl}}'); width: 100vw; height: 100vh; z-index: 1; top: 0; left: 0;">
 </div>

@@ -87,10 +87,14 @@
 /*@import './imports/_debug';*/
 .sticky {
   position: sticky;
-  top: 0rem;
+  top: 3.5rem;
   z-index: 1;
 }
 .sticky2 {
+  position: sticky;
+  top: 11rem;
+}
+.sticky3 {
   position: sticky;
   top: 8rem;
 }

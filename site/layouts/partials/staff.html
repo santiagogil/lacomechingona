@@ -5,11 +5,11 @@
 		<div class="mhn2-ns mb3">
 			{{ range .items }}
 				<div class="ph2-ns mb4 cf">
-          <div class="sticky2 w-100 w-50-ns fl tr-ns bg-off-white pv3">
+          <div class="sticky3 w-100 w-50-ns fl tr-ns bg-off-white pv3">
             <h3 class=''>{{with .number}}{{.}}.-{{end}} {{.heading}}</h3>
-            <img src="{{.img}}" alt="" class="mb3 w3 ma2" style='border-radius: 50%'>
           </div>
-          <div class="w-50-ns fl pl4">
+          <div class="w-40-ns fl pl4">
+            <img src="{{.img}}" alt="" class="mb3 w3 ma2" style='border-radius: 50%'>
 					<p>{{ .text | safeHTML }}</p>
           </div>
 				</div>

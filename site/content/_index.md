@@ -5,6 +5,7 @@ image: /img/2fotomontaje1.jpg
 plantaImage: /img/planta.jpg
 caracts:
   heading: "CARACTERÍSTICAS DEL PROYECTO"
+  id: caract
   items:
     - number: "1"
       heading: "Clima" 
@@ -16,11 +17,12 @@ caracts:
   un importante AHORRO ENERGÉTICO en lo referente a climatización interior."
     - number: "2"
       heading: "VERSATILIDAD"
-      text: "Las viviendas proyectadas cuentan con un prototipo de 85 m2 y dos variantes (a 65 m2 y a 110m2)
-Todas tienen la característica de poder ser adaptadas según orientación de lote, visuales, accidentes
-topográficos sin variar la distribución y funcionalidad de los locales que la componen (sala de estar,
-comedor, cocina, habitaciones, baño y lavadero) y espacios de expansión al exterior (galería, asador,
-cochera), como también la posibilidad de variantes según los requerimientos de los usuarios."
+      text: >-
+        Las viviendas proyectadas cuentan con un prototipo de 85m<sup>2</sup> y dos variantes (a 65m<sup>2</sup> y a 110m<sup>2</sup>)
+        Todas tienen la característica de poder ser adaptadas según orientación de lote, visuales, accidentes
+        topográficos sin variar la distribución y funcionalidad de los locales que la componen (sala de estar,
+        comedor, cocina, habitaciones, baño y lavadero) y espacios de expansión al exterior (galería, asador,
+        cochera), como también la posibilidad de variantes según los requerimientos de los usuarios.
     - number: "3"
       heading: "ENERGIA/RECURSOS"
       text: "Estudiada la capacidad de consumo y ahorro energético del prototipo, se dotarán de instalación solar
@@ -44,5 +46,26 @@ planos:
       img: "/img/110.svg"
     - heading: '85'
       img: '/img/85.svg'
+staff:
+  heading: Staff
+  id: staff
+  items:
+    - heading: 'Sol Corradi'
+      img: '/img/sol.png'
+      text: ' Creando espacios de confort para una comunidad sustentable. 
+  Nacida en la Ciudad de Córdoba en 1976, radicada en Merlo desde 2018, estudió Arquitectura en la Universidad Nacional de Córdoba, realizó dos postgrados sobre estructuras y artesanía en la arquitectura, participó en congresos de Bioarquitectura y en diversos talleres para la difusión de otras formas de construir y diseñar.
+ Matriculada en el Colegio de Arquitectos de San Luis, trabaja con una impronta en el diseño bioclimático y en el ahorro energético, sin olvidar el confort de quien habita el espacio proyectado, el entorno y el respeto por el ambiente, siendo consciente del impacto que tiene la actividad constructiva en nuestro medio.
+ Su trabajo como arquitecta abarca desde el nuevo proyecto y obra, restauraciones y remodelaciones, diseño y ejecución de cartelería hecha a mano, hasta el asesoramiento bajo el formato de consultorio de arquitectura. 
+ Además de esta actividad, es dibujante, reportera gráfica y comparte su arte en redes sociales (www.ladibuixa.wordpress.com). Actualmente también dicta clases de dibujo en espacio cultural en Merlo. 
+  Empieza el proyecto de la Casa Calaguala por un encargo del MMO y músico Lucas Pereira, con quien forma equipo para la construcción de viviendas sustentables.'
+
+    - heading: 'Lucas Manuel Pereira'
+      img: "/img/lucas.png"
+      text: "Creando espacios de confort para una comunidad sustentable. 
+  Nacido en la Ciudad de Buenos Aires en 1987, radicado en Merlo San Luis desde 2016, estudio para Maestro Mayor de Obras en la Escuela Técnica Luis. A. Huergo. 
+ Profesor de Música formado en el Conservatorio Superior de Música “Astor Piazzolla”, con orientación en Contrabajo y especialidad en Música de Cámara.
+ Matriculado en el Registro Público de Administradores de Consorcios de la Ciudad De Buenos Aires, trabajo como Administrador realizando diversas remodelaciones en edificios y departamentos, para optimizar la utilización de los espacios y maximizar las inversiones. Actualmente es Administrador del “CALAGUALA- Club de Montaña y Reserva Natural”. 
+ Desde 2014 participa en diversos proyectos de Bio-Construcción, realizando restauraciones y obras nuevas, con el fin de optimizar el rendimiento energético y la sustentabilidad de los proyectos. 
+  Inspirado en la autoconstrucción de una casa ecológica para su familia en 2018 contacto a la Arq. Sol Corradi para diseñar la Casa Calaguala y formar equipos para la construcción de viviendas sustentables."
 ---
 

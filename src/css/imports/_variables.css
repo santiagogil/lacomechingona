@@ -1,14 +1,14 @@
 :root {
 	/* Colors */
-	--primary: #137752;
+	--primary: #5a704d;
 	--highlight: #D5008F;
-	--white: #F6FFFE;
-	--off-white: #CDECFF;
-	--grey-1: rgba(245, 243, 242, 1);
+	--white: #ddfcad;
+	--off-white: #c3aa69;
+	--grey-1: #b1af87;
 	--grey-2: rgba(235, 231, 230, 1);
 	--grey-3: rgba(89, 87, 86, 1);
 	--grey-4: rgba(66, 64, 64, 1);
-	--black: #137752;
+	--black: #4b402e;
 
 	/* Typography */
 	--font-family: rubikregular, sans-serif;

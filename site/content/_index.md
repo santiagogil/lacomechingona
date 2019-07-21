@@ -2,7 +2,7 @@
 title: "La comechingona"
 subtitle: "CC Creative Commons 4.0 Atribucion Compartir Igual" 
 image: /img/2fotomontaje1.1920w.jpeg
-plantaImage: /img/planta.jpg
+plantaImage: /img/planta.1920w.jpeg
 caracts:
   heading: "CARACTERÍSTICAS DEL PROYECTO"
   id: caract
@@ -60,7 +60,7 @@ staff:
   id: staff
   items:
     - heading: 'Sol Corradi'
-      img: '/img/sol.png'
+      img: '/img/sol.480w.jpeg'
       alt: 'Retrato Sol Corradi'
       text: 'Creando espacios de confort para una comunidad sustentable. 
   Nacida en la Ciudad de Córdoba en 1976, radicada en Merlo desde 2018, estudió Arquitectura en la Universidad Nacional de Córdoba, realizó dos postgrados sobre estructuras y artesanía en la arquitectura en la Universidad Politécnica de Catalunya (Estado español), participó en congresos de Bioarquitectura y en diversos talleres para la difusión de otras formas de construir y diseñar.
@@ -71,7 +71,7 @@ staff:
 
     - heading: 'Lucas Manuel Pereira'
       alt: 'Retrato Lucas Manuel Pereira'
-      img: "/img/lucas.png"
+      img: "/img/lucas.480w.jpeg"
       text: "Creando espacios de confort para una comunidad sustentable. 
   Nacido en la Ciudad de Buenos Aires en 1987, radicado en Merlo San Luis desde 2016, estudio para Maestro Mayor de Obras en la Escuela Técnica Luis. A. Huergo. 
  Profesor de Música formado en el Conservatorio Superior de Música “Astor Piazzolla”, con orientación en Contrabajo y especialidad en Música de Cámara.

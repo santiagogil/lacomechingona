@@ -48,9 +48,12 @@ planos:
   items:
     - heading: '65'
       img: "/img/65.svg"
+      alt: "Plano prototipo 65 metros cuadrados"
     - heading: '85'
       img: '/img/85.svg'
+      alt: "Plano prototipo 85 metros cuadrados"
     - heading: '110'
+      alt: "Plano prototipo 110 metros cuadrados"
       img: "/img/110.svg"
 staff:
   heading: EQUIPO
@@ -58,6 +61,7 @@ staff:
   items:
     - heading: 'Sol Corradi'
       img: '/img/sol.png'
+      alt: 'Retrato Sol Corradi'
       text: 'Creando espacios de confort para una comunidad sustentable. 
   Nacida en la Ciudad de Córdoba en 1976, radicada en Merlo desde 2018, estudió Arquitectura en la Universidad Nacional de Córdoba, realizó dos postgrados sobre estructuras y artesanía en la arquitectura en la Universidad Politécnica de Catalunya (Estado español), participó en congresos de Bioarquitectura y en diversos talleres para la difusión de otras formas de construir y diseñar.
  Matriculada en el Colegio de Arquitectos de San Luis, trabaja con una impronta en el diseño bioclimático y en el ahorro energético, sin olvidar el confort de quien habita el espacio proyectado, el entorno y el respeto por el ambiente, siendo consciente del impacto que tiene la actividad constructiva en nuestro medio.
@@ -66,6 +70,7 @@ staff:
   Empieza el proyecto de la Casa Calaguala por un encargo del constructor y músico Lucas Pereira, con quien forma equipo para la construcción de viviendas sustentables.'
 
     - heading: 'Lucas Manuel Pereira'
+      alt: 'Retrato Lucas Manuel Pereira'
       img: "/img/lucas.png"
       text: "Creando espacios de confort para una comunidad sustentable. 
   Nacido en la Ciudad de Buenos Aires en 1987, radicado en Merlo San Luis desde 2016, estudio para Maestro Mayor de Obras en la Escuela Técnica Luis. A. Huergo. 

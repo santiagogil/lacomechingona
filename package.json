@@ -35,24 +35,35 @@
     "gotrue-js": "^0.9.1",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.0",
+    "gulp-ext-replace": "^0.3.0",
     "gulp-postcss": "^8.0.0",
     "gulp-util": "^3.0.7",
     "imports-loader": "^0.8.0",
+    "lozad": "^1.9.0",
     "netlify-cms": "^2.9.1",
     "postcss-cssnext": "^3.0.0",
     "postcss-import": "^12.0.0",
     "postcss-loader": "^3.0.0",
-    "postcss-uncss": "^0.16.0",
     "react": "16.7.0",
-    "uncss": "^0.16.0",
     "url-loader": "^1.0.0",
     "webpack": "^3.0.0",
     "whatwg-fetch": "^2.0.0"
   },
   "devDependencies": {
+    "flat-map": "^1.0.0",
+    "gulp-imagemin": "^6.0.0",
     "gulp-inject": "^5.0.0",
+    "gulp-scale-images": "^1.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
-    "svg-sprite-loader": "^3.0.0"
+    "imagemin-webp": "^5.1.0",
+    "postcss-extract-media-query": "^1.2.0",
+    "postcss-remove-unused-css": "^1.0.4",
+    "postcss-uncss": "^0.16.1",
+    "svg-sprite-loader": "^3.0.0",
+    "uncss": "^0.16.2",
+    "usedcss": "^1.0.7",
+    "workbox-build": "^4.3.0",
+    "workbox-webpack-plugin": "^4.3.1"
   }
 }

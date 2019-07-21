@@ -1,13 +1,12 @@
-<div id='{{.id}}' class="bg-off-white pv4 relative" style="z-index: 3; top: 100vh;">
+<div id='{{.id}}' class="bg-black white pv5 relative 0-9" style="z-index: 3; top: 100vh;">
 	<div class="ph3 mw7 center">
-		<h2 class="bg-off-white f2 b lh-title mb2 sticky w-50-ns tr-ns pt4">{{.heading}}</h2>
+		<h2 class="bg-black f3 b lh-title sticky w-50-ns tr-ns pv3">{{.heading}}</h2>
 
 		<div class="mhn2-ns mb3">
 			{{ range .items }}
-				<div class="ph2-ns mb4 cf">
-          <div class="sticky2 w-100 w-50-ns fl tr-ns bg-off-white pv3">
+				<div class="ph2-ns pv4 cf">
+          <div class="sticky2 sticky2-ns w-100 w-50-ns fl tr-ns bg-black">
             <h3 class=''>{{with .number}}{{.}}.-{{end}} {{.heading}}</h3>
-            <img src="{{.img}}" alt="" class="mb3 w3 ma2" style='border-radius: 50%'>
           </div>
           <div class="w-50-ns fl pl4">
 					<p>{{ .text | safeHTML }}</p>

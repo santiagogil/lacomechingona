@@ -1,6 +1,6 @@
 :root {
 	/* Colors */
-	--primary: #5a704d;
+	--primary: #67d458;
 	--highlight: #D5008F;
 	--white: #ddfcad;
 	--off-white: #c3aa69;
@@ -8,7 +8,7 @@
 	--grey-2: rgba(235, 231, 230, 1);
 	--grey-3: rgba(89, 87, 86, 1);
 	--grey-4: rgba(66, 64, 64, 1);
-	--black: #4b402e;
+	--black: #67d458;
 
 	/* Typography */
 	--font-family: rubikregular, sans-serif;

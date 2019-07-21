@@ -1,7 +1,7 @@
 ---
 title: "La comechingona"
 subtitle: "CC Creative Commons 4.0 Atribucion Compartir Igual" 
-image: /img/2fotomontaje1.jpg
+image: /img/2fotomontaje1.1920w.jpeg
 plantaImage: /img/planta.jpg
 caracts:
   heading: "CARACTERÍSTICAS DEL PROYECTO"

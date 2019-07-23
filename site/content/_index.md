@@ -46,24 +46,25 @@ El diseño bioclimático permite captación solar y la ventilación natural a tr
         de confort.
 planos:
   items:
-    - heading: '65'
+    - heading: '  65m2'
       img: "/img/65.svg"
       alt: "Plano prototipo 65 metros cuadrados"
-    - heading: '85'
+    - heading: '85m2'
       img: '/img/85.svg'
       alt: "Plano prototipo 85 metros cuadrados"
-    - heading: '110'
+    - heading: '110m2'
       alt: "Plano prototipo 110 metros cuadrados"
       img: "/img/110.svg"
 staff:
   heading: EQUIPO
   id: staff
   items:
+    - text: 'Crear espacios de confort para una comunidad sustentable.'
+      heading: 'Nos une'
     - heading: 'Sol Corradi'
       img: '/img/sol.480w.jpeg'
       alt: 'Retrato Sol Corradi'
-      text: 'Creando espacios de confort para una comunidad sustentable. 
-  Nacida en la Ciudad de Córdoba en 1976, radicada en Merlo desde 2018, estudió Arquitectura en la Universidad Nacional de Córdoba, realizó dos postgrados sobre estructuras y artesanía en la arquitectura en la Universidad Politécnica de Catalunya (Estado español), participó en congresos de Bioarquitectura y en diversos talleres para la difusión de otras formas de construir y diseñar.
+      text: 'Nacida en la Ciudad de Córdoba en 1976, radicada en Merlo desde 2018, estudió Arquitectura en la Universidad Nacional de Córdoba, realizó dos postgrados sobre estructuras y artesanía en la arquitectura en la Universidad Politécnica de Catalunya (Estado español), participó en congresos de Bioarquitectura y en diversos talleres para la difusión de otras formas de construir y diseñar.
  Matriculada en el Colegio de Arquitectos de San Luis, trabaja con una impronta en el diseño bioclimático y en el ahorro energético, sin olvidar el confort de quien habita el espacio proyectado, el entorno y el respeto por el ambiente, siendo consciente del impacto que tiene la actividad constructiva en nuestro medio.
  Su trabajo como arquitecta abarca desde el nuevo proyecto y obra, restauraciones y remodelaciones, diseño y asesoramiento bajo el formato de consultorio de arquitectura. 
  Además de esta actividad, es dibujante, letrista, reportera gráfica y comparte su arte en redes sociales (www.ladibuixa.wordpress.com). Actualmente también dicta clases de dibujo en espacio cultural en Merlo. 
@@ -72,8 +73,7 @@ staff:
     - heading: 'Lucas Manuel Pereira'
       alt: 'Retrato Lucas Manuel Pereira'
       img: "/img/lucas.480w.jpeg"
-      text: "Creando espacios de confort para una comunidad sustentable. 
-  Nacido en la Ciudad de Buenos Aires en 1987, radicado en Merlo San Luis desde 2016, estudio para Maestro Mayor de Obras en la Escuela Técnica Luis. A. Huergo. 
+      text: "Nacido en la Ciudad de Buenos Aires en 1987, radicado en Merlo San Luis desde 2016, estudio para Maestro Mayor de Obras en la Escuela Técnica Luis. A. Huergo. 
  Profesor de Música formado en el Conservatorio Superior de Música “Astor Piazzolla”, con orientación en Contrabajo y especialidad en Música de Cámara.
  Matriculado en el Registro Público de Administradores de Consorcios de la Ciudad De Buenos Aires, trabajo como Administrador realizando diversas remodelaciones en edificios y departamentos, para optimizar la utilización de los espacios y maximizar las inversiones. Actualmente es Administrador del “CALAGUALA- Club de Montaña y Reserva Natural”. 
  Desde 2014 participa en diversos proyectos de Bio-Construcción, realizando restauraciones y obras nuevas, con el fin de optimizar el rendimiento energético y la sustentabilidad de los proyectos. 

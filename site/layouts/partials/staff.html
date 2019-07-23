@@ -1,7 +1,6 @@
 <div id='{{.id}}' class="bg-white black pv4 relative" style="z-index: 3; top: 100vh;">
 	<div class="ph3 mw7 center">
 		<h2 class="bg-white f3 b lh-title mb2 sticky w-50-ns tr-ns pt4">{{.heading}}</h2>
-
 		<div class="mhn2-ns mb3">
 			{{ range .items }}
 				<div class="ph2-ns mb4 cf">
@@ -10,7 +9,7 @@
           </div>
           <div class="w-40-ns fl pl4">
             <img data-src="{{.img}}" alt="" class="mb3 w3 ma2 lozad" style='border-radius: 50%'>
-					<p>{{ .text | safeHTML }}</p>
+            <p>{{with .text}}{{ . | safeHTML }}{{end}}</p>
           </div>
 				</div>
 			{{ end }}

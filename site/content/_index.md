@@ -39,8 +39,7 @@ El diseño bioclimático permite captación solar y la ventilación natural a tr
         ahorro energético y menor impacto ambiental.<br><br>
 
 
-        B) El proyecto es fácilmente adaptable a la construcción convencional con doble pared de ladrillo
-        común, cámara de aire y ladrillo cerámico y cubierta de tejas, ya que la correcta utilización de los
+        B) El proyecto es fácilmente adaptable a la construcción convencional con pared de ladrillo cerámico hueco portante y cubierta de tejas, ya que la correcta utilización de los
         mismos, respetando los niveles de aislamiento y el diseño bioclimático de las tipologías permite
         conservar las características climáticas y de ahorro energético sin variar sustancialmente la sensación
         de confort.
